@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+.content table, .content td, th {
+    border: 1px solid black;
+}
